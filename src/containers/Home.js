@@ -7,7 +7,7 @@ class Home extends Component {
       <div className={'Container'}>
         <div className={'ButtonPosition'}>
           <div>
-            <a href={''} className={'Button'}>ABOUT</a>
+            <a href={'/about'} className={'Button'}>ABOUT</a>
           </div>
 
           <div>
